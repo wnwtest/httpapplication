@@ -1,0 +1,4 @@
+include ':lib_common'
+include ':lib_http'
+include ':app'
+rootProject.name = "HTTPApplication"
